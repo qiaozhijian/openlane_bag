@@ -1,0 +1,1 @@
+``pip install catkin_pkg && pip install rospkg && pip install gnupg && pip install pycryptodomex``
