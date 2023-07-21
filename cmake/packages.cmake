@@ -5,7 +5,6 @@ find_package(catkin REQUIRED COMPONENTS
         rospy
         std_msgs
         geometry_msgs
-        pcl_ros
         message_generation
         eigen_conversions
         )
